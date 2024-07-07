@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Flyable {
+public interface Flyable {
+    void fly();
+
+
 }
